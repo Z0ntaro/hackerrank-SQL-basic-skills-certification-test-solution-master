@@ -22,6 +22,11 @@ Certificate can be viewed [here](https://www.hackerrank.com/certificates/d32893d
 
 <br/>
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 ## New Questions?
 If any new questions comes other than these, make sure to create PR/Issue.
 
